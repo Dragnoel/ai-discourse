@@ -31,4 +31,4 @@ Ehsan and Riedl (2020, cited in 2024) developed the Human-Centered XAI (HCXAI) a
 - [[themes/frameworks/]]
 
 ## References
-- Ehsan and Riedl (2024)
+- [[source/ehsan-riedl-2024-scot-xai|Ehsan and Riedl (2024)]]

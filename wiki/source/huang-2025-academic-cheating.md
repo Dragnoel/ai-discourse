@@ -38,3 +38,7 @@ The study finds that GenAI integration into education is perceived by students a
 
 - [[Nikolic et al. (2024)]] — also examines academic integrity concerns as a faculty-side concern; Huang et al. provide the student-side motivation data
 - [[Mah and Groß (2024)]] — faculty concerns about academic integrity emerge as a challenge category; Huang et al. provide the student behavioral mechanism
+
+## Citation
+
+Huang, D., Hash, N., Cummings, J., & Prena, K. (2025). Academic cheating with generative AI: Exploring a moral extension of the theory of planned behavior. *Computers and Education: Artificial Intelligence*, *7*. {{doi unverified}}

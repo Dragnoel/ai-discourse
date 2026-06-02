@@ -43,4 +43,4 @@ Contested with qualification. The contested designation reflects the potential c
 - [[themes/perceptions/]]
 
 ## References
-- Tully et al. (2024)
+- [[source/tully-2024-lower-ai-literacy|Tully et al. (2024)]]

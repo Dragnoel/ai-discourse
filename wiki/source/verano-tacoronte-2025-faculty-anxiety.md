@@ -38,3 +38,7 @@ Anxiety about student learning showed a significant direct negative effect on be
 - [[Nikolic et al. (2024)]] — systematic review covering similar faculty adoption terrain; Nikolic treats concerns as undifferentiated; Verano-Tacoronte et al. provide the specific anxiety typology
 - [[Lan (2024)]] — also examines psychological barriers to faculty AI adoption; Lan uses identity tension as the mechanism; Verano-Tacoronte use anxiety type
 - [[Shekhar and Saurombe (2026)]] — also studies algorithmic anxiety; Shekhar & Saurombe focus on workers fearing displacement; Verano-Tacoronte focus on teachers fearing pedagogical harm — different populations, different stakes
+
+## Citation
+
+Verano-Tacoronte, D., Bolívar-Cruz, A., & Sosa-Cabrera, S. (2025). Are university teachers ready for generative artificial intelligence? Unpacking faculty anxiety in the ChatGPT era. *Education and Information Technologies*, *30*. {{doi unverified}}

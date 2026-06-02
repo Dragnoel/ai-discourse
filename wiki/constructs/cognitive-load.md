@@ -12,8 +12,8 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Bassner et al. - 2026 - Less stress, better scores, same learning The dissociation of performance and learning in AI-suppor
-  - Yuxian - 2025 - Bridging the knowledge-skill gap The role of large language model and critical thinking in educatio
+  - bassner-2026
+  - yuxian-2025
 ---
 
 # Cognitive Load
@@ -36,6 +36,6 @@ The construct is central to a recurring claim in the EdTech literature: that AI 
 - [[themes/frameworks/]]
 
 ## References
-- Bassner et al. (2026)
-- Yuxian (2025)
+- [[source/bassner-2026-less-stress|Bassner et al. (2026)]]
+- [[source/yuxian-2025-knowledge-skill-gap|Yuxian (2025)]]
 - Sweller (1988) — foundational {{unverified — not in raw/}}

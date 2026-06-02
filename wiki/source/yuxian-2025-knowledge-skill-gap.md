@@ -36,3 +36,7 @@ LLM chatbot access alone significantly improved declarative knowledge acquisitio
 - [[Bassner et al. (2026)]] — both apply CLT to AI-education interventions; Bassner finds performance gain without learning gain with unscaffolded ChatGPT; Yuxian finds synergy when critical thinking guidance is added — key empirical complement
 - [[Vendrell and Johnston (2026)]] — Yuxian's experimental findings support Vendrell & Johnston's normative prescription that AI should be combined with metacognitive/critical scaffolding rather than deployed alone
 - [[Wang et al. (2026)]] — both use pedagogical frameworks to structure LLM integration; Yuxian provides experimental evidence for the value of structured co-deployment
+
+## Citation
+
+Yuxian, J. (2025). Bridging the knowledge-skill gap: The role of large language model and critical thinking in education. *Computers & Education*, *225*. {{doi unverified}}

@@ -42,4 +42,4 @@ Active. Opinion piece; empirical tests of whether definitional pluralism aids or
 - [[Upol Ehsan]]
 
 ## References
-- Ehsan and Riedl (2024)
+- [[source/ehsan-riedl-2024-scot-xai|Ehsan and Riedl (2024)]]

@@ -39,3 +39,7 @@ A central finding is that only 3 of 146 papers in Zawacki-Richter et al.'s (2019
 - [[Eynon and Young (2021)]] — same critical-constructivist orientation; Eynon and Young find three incompatible stakeholder frames; both papers use discourse/SCOT to argue that dominant frames crowd out democratic alternatives
 - [[Jin et al. (2025)]] — metaphor analysis of student AI perceptions; different population and method but compatible interest in how AI is discursively framed
 - [[Nikolic et al. (2024)]] — systematic review of faculty attitudes; more positivist stance; provides an implicit contrast to Bearman's discourse-critical orientation
+
+## Citation
+
+Bearman, M., Ryan, J., & Ajjawi, R. (2023). Discourses of artificial intelligence in higher education: A critical literature review. *Higher Education*, *86*(6), 1393–1407. https://doi.org/10.1007/s10734-022-00994-7

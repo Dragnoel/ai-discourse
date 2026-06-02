@@ -44,4 +44,4 @@ Active. Small sample (N=25) at a single US institution; mixed-methods design pro
 - [[Moral Obligation]] (candidate construct)
 
 ## References
-- Huang et al. (2025)
+- [[source/huang-2025-academic-cheating|Huang et al. (2025)]]

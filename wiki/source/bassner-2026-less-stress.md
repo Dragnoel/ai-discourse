@@ -40,3 +40,7 @@ Both AI conditions achieved substantially higher exercise scores than the contro
 - [[Yuxian (2025)]] — also applies Cognitive Load Theory to AI in education; finds synergistic effects when critical thinking guidance is combined with LLM use, suggesting design context matters
 - [[Vendrell and Johnston (2026)]] — normative design principles addressing the same risk (cognitive offloading undermining critical thinking); complementary prescriptive position
 - [[Cheng et al. (2025)]] — also examines AI assistance and performance; different mechanism (question-asking), different population
+
+## Citation
+
+Bassner, P., Lenk-Ostendorf, B., Beinstingel, R., Wasner, T., & Krusche, S. (2026). Less stress, better scores, same learning: The dissociation of performance and learning in AI-supported programming education. *Computers and Education: Artificial Intelligence*, *8*. {{doi unverified}}

@@ -36,3 +36,7 @@ The key finding is that the relationship between AI self-efficacy and actual usa
 - [[Nikolic et al. (2024)]] — systematic review of faculty attitudes; Mah & Groß provide a primary quantitative study with similar population and UTAUT-adjacent constructs
 - [[Lan (2024)]] — also examines faculty heterogeneity; Lan finds three identity-based motivation types; Mah & Groß find four self-efficacy-grounded profiles; complementary typologies
 - [[Xia et al. (2025)]] — also addresses AI self-efficacy measurement in HE faculty; Xia et al. develop the GAICS-TR scale which Mah & Groß's study predates and would benefit from
+
+## Citation
+
+Mah, D.-K., & Groß, N. (2024). Artificial intelligence in higher education: Exploring faculty use, self-efficacy, distinct profiles, and professional development needs. *International Journal of Educational Technology in Higher Education*, *21*, 45. https://doi.org/10.1186/s41239-024-00471-4

@@ -37,3 +37,7 @@ The authors identify the inaugural use of "algorithm aversion" as Dietvorst et a
 
 - [[Logg (2019)]] — empirical paper in the literature Jussupow et al. seek to integrate; Logg demonstrates appreciation effect that Jussupow et al. argue requires classification before comparison
 - [[Himmelstein and Budescu (2023)]] — another empirical paper in the same literature; demonstrates preference-behavior gap that Jussupow et al.'s framework helps explain
+
+## Citation
+
+Jussupow, E., Benbasat, I., & Heinzl, A. (2024). An integrative perspective on algorithm aversion and appreciation in decision-making. *MIS Quarterly*, *48*(4), 1543–1564. {{doi unverified}}

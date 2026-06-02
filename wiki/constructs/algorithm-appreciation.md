@@ -12,9 +12,9 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Logg - 2019 - Algorithm appreciation_ People prefer algorithmic to human judgment
-  - Jussupow et al. - 2024 - AN INTEGRATIVE PERSPECTIVE ON ALGORITHM AVERSION AND APPRECIATION IN DECISION-MAKING.
-  - Himmelstein and Budescu - 2023 - Preference for human or algorithmic forecasting advice does not predict if and how it is used
+  - logg-2019
+  - jussupow-2024
+  - himmelstein-budescu-2023
 ---
 
 # Algorithm Appreciation
@@ -36,6 +36,6 @@ Algorithm appreciation and [[Algorithm Aversion]] are often framed as opposites,
 - [[themes/frameworks/]]
 
 ## References
-- Logg et al. (2019)
-- Jussupow et al. (2024)
-- Himmelstein and Budescu (2023)
+- [[source/logg-2019-algorithm-appreciation|Logg et al. (2019)]]
+- [[source/jussupow-2024-algorithm-aversion|Jussupow et al. (2024)]]
+- [[source/himmelstein-budescu-2023-preference-forecasting|Himmelstein and Budescu (2023)]]

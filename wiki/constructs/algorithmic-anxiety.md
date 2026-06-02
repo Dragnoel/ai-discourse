@@ -12,8 +12,8 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Shekhar and Saurombe - 2026 - Algorithmic anxiety AI, work, and the evolving psychological contract in digital discourse
-  - Verano-Tacoronte et al. - 2025 - Are university teachers ready for generative artificial intelligence Unpacking faculty anxiety in t
+  - shekhar-saurombe-2026
+  - verano-tacoronte-2025
 ---
 
 # Algorithmic Anxiety
@@ -34,5 +34,5 @@ In Shekhar and Saurombe (2026), algorithmic anxiety surfaces in online discourse
 - [[themes/perceptions/]]
 
 ## References
-- Shekhar and Saurombe (2026)
-- Verano-Tacoronte et al. (2025)
+- [[source/shekhar-saurombe-2026-algorithmic-anxiety|Shekhar and Saurombe (2026)]]
+- [[source/verano-tacoronte-2025-faculty-anxiety|Verano-Tacoronte et al. (2025)]]

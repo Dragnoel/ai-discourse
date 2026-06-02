@@ -44,4 +44,4 @@ Active. Data cut-off is November 2020; the discourse has evolved substantially s
 - [[themes/perceptions/]]
 
 ## References
-- Bearman et al. (2023)
+- [[source/bearman-2023-discourses-ai-he|Bearman et al. (2023)]]

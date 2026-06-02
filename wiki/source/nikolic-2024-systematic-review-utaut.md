@@ -43,3 +43,7 @@ Institutional support and training availability emerge as critical moderators: i
 - [[Mah and Groß (2024)]] — provides primary-study data on the constructs Nikolic et al. synthesise
 - [[Verano-Tacoronte et al. (2025)]] — also examines faculty adoption barriers; focuses on anxiety type rather than UTAUT constructs; complementary mechanism
 - [[Lan (2024)]] — provides identity and motivation mechanisms not captured by UTAUT; complements Nikolic's structural framework
+
+## Citation
+
+Nikolic, S., Wentworth, I., Sheridan, L., Moss, S., Duursma, E., Jones, R., Ros, M., & Middleton, R. (2024). A systematic literature review of attitudes, intentions and behaviours of teaching academics pertaining to AI and generative AI (GenAI) in higher education. *Australasian Journal of Educational Technology*, *40*(4), 32–53. {{doi unverified}}

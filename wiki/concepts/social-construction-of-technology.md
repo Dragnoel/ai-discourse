@@ -37,6 +37,6 @@ SCOT has been applied in this collection by three papers addressing distinct obj
 - [[themes/frameworks/]]
 
 ## References
-- Eynon and Young (2021)
-- Ehsan and Riedl (2024)
-- Armstrong (2025)
+- [[source/eynon-young-2021-methodology-legend|Eynon and Young (2021)]]
+- [[source/ehsan-riedl-2024-scot-xai|Ehsan and Riedl (2024)]]
+- [[source/armstrong-2025-ai-integration|Armstrong (2025)]]

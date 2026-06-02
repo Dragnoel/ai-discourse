@@ -40,5 +40,7 @@ Participants in the GenAI condition asked significantly more questions overall t
 
 - [[Bassner et al. (2026)]] — also uses experimental comparison of GenAI vs. non-GenAI conditions on performance outcomes; Bassner finds performance gain without learning gain; Cheng et al. examine mechanism through which performance gain arises
 - [[Vendrell and Johnston (2026)]] — both address how students interact with GenAI during learning tasks; Vendrell & Johnston focus on critical thinking risks; Cheng et al. focus on beneficial help-seeking affordances
-</content>
-</invoke>
+
+## Citation
+
+Cheng, Y., Fan, Y., Li, X., Chen, G., Gašević, D., & Swiecki, Z. (2025). Asking generative artificial intelligence the right questions improves writing performance. *Computers and Education: Artificial Intelligence*, *7*. {{doi unverified}}

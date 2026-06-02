@@ -40,4 +40,4 @@ Active. Important methodological challenge to studies that measure preference as
 - [[Lay Decision-Makers Prefer Algorithmic to Human Advice]] — the claim this qualifies
 
 ## References
-- Himmelstein and Budescu (2023)
+- [[source/himmelstein-budescu-2023-preference-forecasting|Himmelstein and Budescu (2023)]]

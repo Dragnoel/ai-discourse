@@ -39,3 +39,7 @@ Most students, across disciplines, conceptualised GenAI as primarily Transformat
 - [[Bearman et al. (2023)]] — both examine how AI is discursively framed in educational contexts; Bearman uses academic literature as data; Jin et al. use student metaphors
 - [[Tully et al. (2024)]] — both examine perception of AI in non-expert populations; Tully finds literacy moderates perception of AI as magical; Jin et al. find disciplinary background shapes metaphor choice
 - [[Conradty et al. (2026)]] — both examine student conceptions of AI; Conradty in European secondary school context; Jin et al. in UK postgraduate context; both find students maintain normative boundaries around AI use
+
+## Citation
+
+Jin, F., Sun, L., Pan, Y., & Lin, C.-H. (2025). High heels, compass, spider-man, or drug? Metaphor analysis of generative artificial intelligence in academic writing. *Computers & Education*, *227*. {{doi unverified}}

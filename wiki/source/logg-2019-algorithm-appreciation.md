@@ -38,3 +38,7 @@ However, the effect was not universal. When participants chose their own advisor
 
 - [[Himmelstein and Budescu (2023)]] — same JAS paradigm; Himmelstein & Budescu find stated preferences don't predict WOA, qualifying the behavioral interpretation of Logg's preference-aligned finding
 - [[Jussupow et al. (2024)]] — integrative framework; positions Logg's appreciation effect as one of several empirically fragmented findings requiring systematic conceptual organisation
+
+## Citation
+
+Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. *Organizational Behavior and Human Decision Processes*, *151*, 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005

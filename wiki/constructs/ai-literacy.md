@@ -12,9 +12,9 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Tully et al. - 2024 - Lower Artificial Intelligence Literacy Predicts Greater AI Receptivity
-  - Xu and Xiong - 2026 - Multidimensional determinants of generative AI acceptance in foreign language education
-  - Nikolic et al. - 2024 - A systematic literature review of attitudes, intentions and behaviours of teaching academics pertain
+  - tully-2024
+  - xu-xiong-2026
+  - nikolic-2024
 ---
 
 # AI Literacy
@@ -36,6 +36,6 @@ A potential contradiction between Tully et al. (2024) and Xu and Xiong (2026) is
 - [[themes/perceptions/]]
 
 ## References
-- Tully et al. (2024)
-- Xu and Xiong (2026)
-- Nikolic et al. (2024)
+- [[source/tully-2024-lower-ai-literacy|Tully et al. (2024)]]
+- [[source/xu-xiong-2026-genai-acceptance-fl|Xu and Xiong (2026)]]
+- [[source/nikolic-2024-systematic-review-utaut|Nikolic et al. (2024)]]

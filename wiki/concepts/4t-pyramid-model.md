@@ -39,4 +39,4 @@ Most students in the sample conceptualised GenAI as primarily Transformative. Di
 - [[AI Literacy]]
 
 ## References
-- Jin et al. (2025)
+- [[source/jin-2025-metaphor-analysis|Jin et al. (2025)]]

@@ -40,3 +40,7 @@ The practical implication is counterintuitive for marketers: AI literacy educati
 - [[Xu and Xiong (2026)]] — **contested claim**: Xu & Xiong find AI literacy positively predicts actual GenAI usage; Tully et al. find objective literacy negatively predicts receptivity — constructs and populations differ; see `wiki/_review.md`
 - [[Jin et al. (2025)]] — also examines non-expert AI perception; Jin et al. use metaphor analysis; Tully et al. use experimental surveys; both find diversity in how AI is perceived at the individual level
 - [[Armstrong (2025)]] — also examines AI perception variation by demographic characteristics; Armstrong focuses on equity dimensions; Tully et al. on cognitive mechanism
+
+## Citation
+
+Tully, S., Longoni, C., & Appel, G. (2025). Lower artificial intelligence literacy predicts greater AI receptivity. *Journal of Marketing*, *89*(1). {{doi unverified — note: published 2025 in vol. 89; bib key uses 2024 (submission/working paper year)}}

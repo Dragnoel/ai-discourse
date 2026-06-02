@@ -44,4 +44,4 @@ Active. Well-documented effect in quantitative estimation tasks; boundary condit
 - [[Jennifer Logg]]
 
 ## References
-- Logg et al. (2019)
+- [[source/logg-2019-algorithm-appreciation|Logg et al. (2019)]]

@@ -37,3 +37,7 @@ Validation through a quasi-experimental case study with 50 sophomore L2 writing 
 - [[Vendrell and Johnston (2026)]] — both develop normative pedagogical frameworks for LLM integration in HE; Vendrell & Johnston focus on critical thinking preservation; Wang et al. focus on L2 writing proficiency
 - [[Bassner et al. (2026)]] — both concerned with design conditions under which AI assistance produces genuine learning gains; Bassner finds that unscaffolded ChatGPT fails to produce learning; Wang et al. argue that a structured pedagogical framework achieves learning improvement
 - [[Yuxian (2025)]] — also addresses combination of AI and instructional design as condition for learning; complementary findings
+
+## Citation
+
+Wang, R., Yin, Y., & Cao, Y. (2026). A LLM-based pedagogical framework for active, inquiry-based and adaptive learning in L2 writing. *Computers and Education: Artificial Intelligence*, *8*. {{doi unverified}}

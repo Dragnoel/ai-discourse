@@ -34,5 +34,5 @@ Not all cognitive offloading is educationally harmful. Offloading genuinely extr
 - [[Assistance Dilemma]]
 
 ## References
-- Vendrell and Johnston (2026)
-- Bassner et al. (2026)
+- [[source/vendrell-johnston-2026-scaffolding-ct|Vendrell and Johnston (2026)]]
+- [[source/bassner-2026-less-stress|Bassner et al. (2026)]]

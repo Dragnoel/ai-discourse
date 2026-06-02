@@ -41,6 +41,6 @@ A recurring limitation noted across these studies is that the base UTAUT model d
 - [[AI Literacy]]
 
 ## References
-- Nikolic et al. (2024)
-- Xu and Xiong (2026)
-- Verano-Tacoronte et al. (2025)
+- [[source/nikolic-2024-systematic-review-utaut|Nikolic et al. (2024)]]
+- [[source/xu-xiong-2026-genai-acceptance-fl|Xu and Xiong (2026)]]
+- [[source/verano-tacoronte-2025-faculty-anxiety|Verano-Tacoronte et al. (2025)]]

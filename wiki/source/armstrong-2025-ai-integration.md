@@ -36,3 +36,7 @@ The practical implication Armstrong draws is that industries developing AI syste
 - [[Eynon and Young (2021)]] — same SCOT framework applied to a different population (lifelong learning stakeholders); complementary claims about how social group membership shapes AI understanding
 - [[Ehsan and Riedl (2024)]] — SCOT applied to explainability in AI; different object but shared theoretical apparatus
 - [[Tully et al. (2024)]] — also examines public-level AI perceptions; Tully finds literacy moderates receptivity; Armstrong finds socioeconomic position moderates awareness
+
+## Citation
+
+Armstrong, A. J. (2025). *AI integration: Understanding the societal implications of advanced technology* (Doctoral dissertation, South College, Knoxville, TN). {{doi unverified — doctoral dissertation; verify via ProQuest Dissertations}}

@@ -37,3 +37,7 @@ The study's theoretical contribution lies in applying psychological contract the
 
 - [[Verano-Tacoronte et al. (2025)]] — also operationalises anxiety in relation to AI; Verano-Tacoronte focuses on faculty adoption anxiety; Shekhar & Saurombe on worker displacement anxiety — same construct, different population and severity
 - [[Armstrong (2025)]] — also examines societal-level AI impacts; Armstrong focuses on awareness and equity; Shekhar & Saurombe on psychological contract violations in labour
+
+## Citation
+
+Shekhar, A., & Saurombe, M. (2026). Algorithmic anxiety: AI, work, and the evolving psychological contract in digital discourse. *Frontiers in Psychology*, *17*. {{doi unverified}}

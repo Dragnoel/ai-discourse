@@ -1,5 +1,25 @@
 # AI Discourse Wiki — Session Status
 
+## Citation and reference-linking pass: 2026-06-03
+
+### Completed this session
+- **24 source pages**: each now ends with a `## Citation` section containing a full APA-format reference. Three DOIs are confirmed (Logg 2019, Bearman 2023, Eynon & Young 2021, Ehsan & Riedl 2024, Mah & Groß 2024); all 2025–2026 papers are marked `{{doi unverified}}` and should be verified against the PDFs.
+- **6 construct pages**: `sources:` frontmatter updated from long PDF-filename strings to proper short bib keys; `## References` entries converted to wikilinks → `[[source/<slug>|Author (Year)]]`.
+- **10 concept pages**: `## References` entries converted to wikilinks.
+- **8 claim pages**: `## References` entries converted to wikilinks.
+- **Bug fix**: removed stale `</content>` / `</invoke>` XML artifacts from `source/cheng-2025-asking-genai.md`.
+
+### Notes
+- Tully et al. bib key is `tully-2024` but the article appeared in *Journal of Marketing* 2025 (vol. 89). Citation section notes the discrepancy.
+- Volume/article numbers for 2026 Elsevier *C&E:AI* papers are unverified; marked accordingly.
+
+### Next session should
+1. Verify the 19 `{{doi unverified}}` citations against the raw PDFs and add confirmed DOIs.
+2. Manually populate `references.bib` (24 bib keys needed; see _lint-report.md F4).
+3. Add new sources to `raw/` and run `/ingest`.
+
+---
+
 ## /cleanup session: 2026-06-02
 
 ### Completed this session

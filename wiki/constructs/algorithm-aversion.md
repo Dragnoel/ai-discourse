@@ -13,9 +13,9 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Jussupow et al. - 2024 - AN INTEGRATIVE PERSPECTIVE ON ALGORITHM AVERSION AND APPRECIATION IN DECISION-MAKING.
-  - Logg - 2019 - Algorithm appreciation_ People prefer algorithmic to human judgment
-  - Himmelstein and Budescu - 2023 - Preference for human or algorithmic forecasting advice does not predict if and how it is used
+  - jussupow-2024
+  - logg-2019
+  - himmelstein-budescu-2023
 ---
 
 # Algorithm Aversion
@@ -42,6 +42,6 @@ Three sources in this collection engage the same empirical terrain but reach dif
 
 ## References
 - Dietvorst et al. (2015) — coined the term {{unverified — not in raw/}}
-- Jussupow et al. (2024)
-- Logg (2019)
-- Himmelstein and Budescu (2023)
+- [[source/jussupow-2024-algorithm-aversion|Jussupow et al. (2024)]]
+- [[source/logg-2019-algorithm-appreciation|Logg (2019)]]
+- [[source/himmelstein-budescu-2023-preference-forecasting|Himmelstein and Budescu (2023)]]

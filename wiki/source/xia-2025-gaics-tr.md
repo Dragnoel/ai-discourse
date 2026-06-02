@@ -41,3 +41,7 @@ Scale validation with N=787 academics across nine universities used confirmatory
 - [[Mah and Groß (2024)]] — uses AI self-efficacy as a key variable; predates GAICS-TR; Xia et al.'s scale provides the validated instrument that studies like Mah & Groß would benefit from
 - [[Xu and Xiong (2026)]] — includes AI self-efficacy as an extended UTAUT variable; the construct measured there could be operationalised more rigorously using GAICS-TR
 - [[Nikolic et al. (2024)]] — identifies AI literacy gap as a key faculty concern; Xia et al.'s scale is a response to that gap at the measurement level
+
+## Citation
+
+Xia, Q., Yang, Y., Weng, X., Cilsalar-Sagnak, H., Cheng, W. K., & Chiu, T. K. F. (2025). Generative artificial intelligence competency self-efficacy scale for teachers and researchers (GAICS-TR) in higher education. *Journal of Computers in Education*, *12*(2). {{doi unverified}}

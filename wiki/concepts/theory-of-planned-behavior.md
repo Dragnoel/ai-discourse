@@ -31,5 +31,5 @@ UTAUT incorporates several TPB constructs (subjective norms maps onto social inf
 - [[themes/frameworks/]]
 
 ## References
-- Huang et al. (2025)
+- [[source/huang-2025-academic-cheating|Huang et al. (2025)]]
 - Ajzen (1991) {{unverified — not in raw/}}

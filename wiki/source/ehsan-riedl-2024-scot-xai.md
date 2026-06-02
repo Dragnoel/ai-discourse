@@ -38,3 +38,7 @@ The practical upshot is a four-point argument: XAI is currently pluralistic; plu
 - [[Eynon and Young (2021)]] — also applies SCOT to AI; different object (lifelong learning policy) and different argument (commercial frames dominate), but shared theoretical apparatus
 - [[Armstrong (2025)]] — SCOT applied at societal/public level; complements Ehsan & Riedl's design-level application
 - [[Bearman et al. (2023)]] — also concerned with how AI is defined and constructed in discourse; different method (critical discourse analysis) and domain (HE journals)
+
+## Citation
+
+Ehsan, U., & Riedl, M. O. (2024). Social construction of XAI: Do we need one definition to rule them all? *Patterns*, *5*(2), 100920. https://doi.org/10.1016/j.patter.2024.100920

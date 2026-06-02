@@ -36,3 +36,7 @@ These results introduce a critical constraint on the algorithm aversion/apprecia
 
 - [[Logg (2019)]] — same JAS paradigm; Logg finds appreciation effect (algorithmic label increases WOA); Himmelstein & Budescu find stated preferences don't predict WOA — methodological contrast
 - [[Jussupow et al. (2024)]] — integrative conceptual piece that identifies the fragmentation Himmelstein & Budescu exemplify; both call for more nuanced definitions of aversion/appreciation
+
+## Citation
+
+Himmelstein, M., & Budescu, D. V. (2023). Preference for human or algorithmic forecasting advice does not predict if and how it is used. *Journal of Behavioral Decision Making*, *36*(3), e2316. {{doi unverified}}

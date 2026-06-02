@@ -37,4 +37,4 @@ The Discourse of Imperative Change is complementary to — and often co-occurrin
 - [[Margaret Bearman]]
 
 ## References
-- Bearman et al. (2023)
+- [[source/bearman-2023-discourses-ai-he|Bearman et al. (2023)]]

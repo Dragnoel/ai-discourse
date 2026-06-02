@@ -33,5 +33,5 @@ This Discourse intersects with — and may partially produce — questions about
 - [[Margaret Bearman]]
 
 ## References
-- Bearman et al. (2023)
-- Lan (2024) — empirical evidence of identity tensions arising from authority redistribution
+- [[source/bearman-2023-discourses-ai-he|Bearman et al. (2023)]]
+- [[source/lan-2024-teacher-professional-identity|Lan (2024)]] — empirical evidence of identity tensions arising from authority redistribution

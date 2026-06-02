@@ -35,3 +35,7 @@ As an edited volume, the book represents a site of scholarly production rather t
 
 - [[Bearman et al. (2023)]] — both use discourse-analytic methods to examine AI representation; Bearman focuses on HE research literature; Karamifar & Valente on media narratives
 - [[Jin et al. (2025)]] — also examines cultural variation in AI perception, though via metaphor analysis; complementary methodological approaches to the cross-cultural framing question
+
+## Citation
+
+Karamifar, B., & Valente, A. (Eds.). (2026). *Artificial intelligence and discourse, volume 1: Cross cultural perspectives of AI technology across media narratives* (Postdisciplinary Studies in Discourse). Palgrave Macmillan. {{doi unverified}}

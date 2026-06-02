@@ -38,3 +38,7 @@ The key analytical claim is that commercial sector frames wield disproportionate
 - [[Bearman et al. (2023)]] — complementary discourse-critical argument; Bearman finds two dominant Discourses in HE AI literature, both of which may reflect commercial and institutional frames similar to Eynon & Young's industry and policy frames
 - [[Ehsan and Riedl (2024)]] — same SCOT framework; Ehsan & Riedl focus on design-level XAI pluralism; Eynon & Young focus on stakeholder-level policy pluralism
 - [[Armstrong (2025)]] — SCOT at societal level; Armstrong examines public awareness rather than expert stakeholder frames
+
+## Citation
+
+Eynon, R., & Young, E. (2021). Methodology, legend, and rhetoric: The constructions of AI by academia, industry, and policy groups for lifelong learning. *Science, Technology, & Human Values*, *46*(1), 166–191. https://doi.org/10.1177/0162243920906475

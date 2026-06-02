@@ -34,5 +34,5 @@ Yuxian (2025) finds a synergistic effect between LLM assistance and critical thi
 - [[Cognitive Offloading]]
 
 ## References
-- Bassner et al. (2026)
-- Yuxian (2025) — counter-evidence from critical thinking scaffolding
+- [[source/bassner-2026-less-stress|Bassner et al. (2026)]]
+- [[source/yuxian-2025-knowledge-skill-gap|Yuxian (2025)]] — counter-evidence from critical thinking scaffolding

@@ -37,3 +37,7 @@ Two illustrative classroom scenarios are provided to demonstrate practical appli
 - [[Bassner et al. (2026)]] — both address the risk that AI assistance substitutes for rather than scaffolds genuine learning; Bassner provides experimental evidence; Vendrell & Johnston provide normative design framework
 - [[Yuxian (2025)]] — experimental evidence that combining LLM access with critical thinking guidance produces synergistic effects; Vendrell & Johnston's framework prescribes exactly this kind of combined design
 - [[Conradty et al. (2026)]] — student conceptions align with Vendrell & Johnston's design principles: students distinguish AI that scaffolds thinking from AI that replaces it
+
+## Citation
+
+Vendrell, M., & Johnston, S.-K. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. *Computers and Education: Artificial Intelligence*, *8*. {{doi unverified}}

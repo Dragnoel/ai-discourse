@@ -39,3 +39,7 @@ Across all three profiles, students articulated a normative boundary between AI 
 - [[Bearman et al. (2023)]] — also interested in how AI is discursively constructed in education contexts; Conradty focuses on student voice rather than research literature
 - [[Bassner et al. (2026)]] — both address the AI assistance vs. student agency tension; Bassner via experimental design, Conradty via student self-report
 - [[Vendrell and Johnston (2026)]] — complementary normative argument about preserving cognitive agency; Conradty provides empirical grounding from student perspective
+
+## Citation
+
+Conradty, C., Sotiriou, S., Koulentianos, D., & Bogner, F. X. (2026). Students' conceptions about AI in science classrooms. *Frontiers in Education*, *11*. {{doi unverified}}

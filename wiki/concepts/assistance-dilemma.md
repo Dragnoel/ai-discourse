@@ -30,5 +30,5 @@ The assistance dilemma becomes more acute with GenAI because, as Bassner et al. 
 - [[Cognitive Offloading]]
 
 ## References
-- Bassner et al. (2026)
+- [[source/bassner-2026-less-stress|Bassner et al. (2026)]]
 - Koedinger and Aleven (2007) {{unverified — not in raw/}}

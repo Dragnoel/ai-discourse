@@ -36,3 +36,7 @@ Key findings show that performance expectancy and social influence are the most 
 - [[Tully et al. (2024)]] — **see _review.md**: Tully finds lower objective AI literacy → greater receptivity; Xu & Xiong find AI literacy positively predicts actual usage — different constructs and populations but surface tension
 - [[Nikolic et al. (2024)]] — also uses UTAUT for faculty in HE; Xu & Xiong apply extended UTAUT to students in FL education; complementary application domains
 - [[Xia et al. (2025)]] — provides the GAICS-TR instrument that could sharpen the AI self-efficacy operationalisation used by Xu & Xiong
+
+## Citation
+
+Xu, T., & Xiong, Y. (2026). Multidimensional determinants of generative AI acceptance in foreign language education. *Scientific Reports*, *16*. {{doi unverified}}

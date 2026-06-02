@@ -43,4 +43,4 @@ Active. Based on 2021 data; the emergence of ChatGPT in 2022 has substantially a
 - [[themes/frameworks/]]
 
 ## References
-- Eynon and Young (2021)
+- [[source/eynon-young-2021-methodology-legend|Eynon and Young (2021)]]

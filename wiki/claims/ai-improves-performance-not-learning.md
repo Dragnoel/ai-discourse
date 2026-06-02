@@ -41,4 +41,4 @@ Active. Single high-quality RCT in programming education context; generalisabili
 - [[Cognitive Load]]
 
 ## References
-- Bassner et al. (2026)
+- [[source/bassner-2026-less-stress|Bassner et al. (2026)]]

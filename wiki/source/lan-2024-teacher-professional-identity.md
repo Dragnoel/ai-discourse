@@ -36,3 +36,7 @@ Surveys of 216 attendees and qualitative interviews with 15 selected teachers id
 - [[Mah and Groß (2024)]] — also examines faculty profiles in relation to AI adoption; Mah & Groß use latent class analysis, Lan uses qualitative case study; both find motivation heterogeneity
 - [[Nikolic et al. (2024)]] — systematic review of faculty adoption; UTAUT framework; Lan provides the identity-motivation mechanism that UTAUT does not address
 - [[Verano-Tacoronte et al. (2025)]] — also examines psychological barriers to faculty AI adoption; Verano-Tacoronte uses anxiety as the primary barrier; Lan uses identity tension
+
+## Citation
+
+Lan, Y. (2024). Through tensions to identity-based motivations: Exploring teacher professional identity in artificial intelligence-enhanced teacher training. *Teaching and Teacher Education*, *142*, 104515. {{doi unverified}}

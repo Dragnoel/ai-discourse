@@ -12,9 +12,9 @@ draft: false
 created: 2026-06-02
 updated: 2026-06-02
 sources:
-  - Xia et al. - 2025 - Generative artificial intelligence competency self-efficacy scale for teachers and researchers (GAIC
-  - Mah and Groß - 2024 - Artificial intelligence in higher education exploring faculty use, self-efficacy, distinct profiles
-  - Xu and Xiong - 2026 - Multidimensional determinants of generative AI acceptance in foreign language education
+  - xia-2025
+  - mah-gross-2024
+  - xu-xiong-2026
 ---
 
 # AI Self-Efficacy
@@ -39,6 +39,6 @@ AI self-efficacy appears in at minimum four sources in this collection, across f
 - [[themes/perceptions/]]
 
 ## References
-- Xia et al. (2025)
-- Mah and Groß (2024)
-- Xu and Xiong (2026)
+- [[source/xia-2025-gaics-tr|Xia et al. (2025)]]
+- [[source/mah-gross-2024-faculty-ai-self-efficacy|Mah and Groß (2024)]]
+- [[source/xu-xiong-2026-genai-acceptance-fl|Xu and Xiong (2026)]]
