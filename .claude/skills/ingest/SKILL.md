@@ -24,6 +24,10 @@ unless explicitly asked to re-process.
 - `## Entities extracted`: bullet list of claims, actors, incidents, constructs identified
 - `## Cross-source links`: other wiki pages this source connects to, and why
 - Standard frontmatter (type: source)
+- For the `## Summary` section and any extended prose, consult
+  `guides/academic-writing-style-guide.md` for sentence architecture,
+  paragraph structure (claim → context → evidence → implication), and
+  hedging calibration
 
 **Create or update entity pages** for each entity identified:
 - `concepts/` — discourse terms introduced or discussed

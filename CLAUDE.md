@@ -6,6 +6,11 @@
 3. `guides/style.md` and `guides/research.md`
 4. The relevant `.claude/skills/` file for the task type
 
+When writing extended prose for `source/` summaries, `comparison/` pages,
+  or `/query` outputs intended for academic use, also read
+  `guides/academic-writing-style-guide.md` for sentence architecture,
+  hedging calibration, paragraph structure, and transition conventions.
+
 ## Session end
 Update `PROJECT_STATUS.md` with:
 - Pages created/edited (counts by type)

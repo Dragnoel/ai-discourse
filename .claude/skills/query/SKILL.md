@@ -23,6 +23,9 @@ triggers:
    - theme/ if characterising a recurring framing
    - constructs/ if defining a measurable construct
    State the proposed page title and type before writing.
+   For comparison/ and theme/ pages with extended prose, consult
+   `guides/academic-writing-style-guide.md` for sentence architecture,
+   hedging, transitions, and paragraph structure.
 
 ## Constraints
 - Use only wiki/ content and references.bib as evidence — cite page names
