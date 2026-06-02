@@ -1,0 +1,6 @@
+raw/
+.obsidian/workspace*.json
+.obsidian/graph.json
+*.DS_Store
+Thumbs.db
+.claude/settings.local.json
