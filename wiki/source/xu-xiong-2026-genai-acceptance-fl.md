@@ -1,5 +1,7 @@
 ---
 title: "Xu and Xiong (2026) — Multidimensional determinants of generative AI acceptance in foreign language education"
+aliases:
+  - "Xu and Xiong (2026)"
 type: source
 themes:
   - edtech
@@ -16,6 +18,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Scientific Reports* (Nature, 2026). Tianyuan Xu (Zhongnan University of Economics and Law) and Ying Xiong (Wuhan University of Technology) report a structural equation modelling study of N=409 Chinese foreign language (FL) students examining determinants of GenAI acceptance, extending the UTAUT model with emotions, AI literacy, and AI self-efficacy as additional constructs.
+
+## Abstract
+
+> Digital technology has ignited new expectations for educational transformations, with generative artificial intelligence (GenAI) at the forefront. As GenAI-driven technologies have permeated multiple aspects of foreign language (FL) pedagogy, research has predominantly probed its effectiveness while paying little attention to the learners' acceptance and usage. The present study delves into this issue. Grounded in the Unified Theory of Acceptance and Use of Technology (UTAUT) model, the study explores the interconnection between UTAUT constructs (i.e. Performance Expectancy, Effort Expectancy, Social Influence, Facilitating Conditions, Behavioral Intention, Actual Usage) and potential variables, namely participants' demographics, emotions, AI literacy and AI self-efficacy. Collecting a total of 409 valid replies of Chinese FL learners from various universities, the study employed Structural Equation Modeling and moderating effect analysis to examine the hypothetical relationships. Results indicate that Performance Expectancy and Social Influence emerge as significant predictors of Behavioral Intention, and Actual Usage is significantly influenced by Behavioral Intention, emotions, AI literacy and AI self-efficacy. Additionally, gender and region demonstrate a moderating effect on specific paths within the overall model. These findings validate and expand the UTAUT model into a bigger picture, enhancing the understanding of FL students' acceptance of GenAI technology from both theoretical and practical perspectives.
+
+**DOI:** https://doi.org/10.1038/s41598-026-36700-1
 
 ## Summary
 

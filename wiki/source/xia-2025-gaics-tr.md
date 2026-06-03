@@ -1,5 +1,7 @@
 ---
 title: "Xia et al. (2025) — Generative artificial intelligence competency self-efficacy scale for teachers and researchers (GAICS-TR) in higher education"
+aliases:
+  - "Xia et al. (2025)"
 type: source
 themes:
   - edtech
@@ -20,6 +22,12 @@ sources:
 ---
 
 Peer-reviewed scale development and validation article in the *Journal of Computers in Education* (Springer, 2025). Qi Xia and colleagues from nine universities developed and validated the GAICS-TR, the first scale specifically designed to measure Generative AI Competency Self-Efficacy for Teachers and Researchers in higher education. N=787 academics across nine universities participated in confirmatory factor analysis and group comparison studies.
+
+## Abstract
+
+> Academics' generative artificial intelligence (GenAI) competency is crucial for addressing the transformations it brings to higher education. Existing digital/AI competency frameworks may indirectly cope with AI competency issues needed but often overlook the impact of GenAI technology on research and assessment. Most existing AI competency frameworks for teachers focus on K–12 education, which is not appropriate for higher education. Therefore, this study aims to develop and validate a scale designed to measure GenAI Competency Self-Efficacy for Teachers and Researchers (GAICS-TR) in higher education. The scale is based on our proposed framework driven by literature and includes four domains and nine dimensions. The domains are basic GenAI understanding, teaching with GenAI, research with GenAI, and professional engagement and GenAI. The participants were 787 academics from nine universities. We used confirmatory factor analysis and group comparisons to validate the scale. Personal factors such as gender and age showed no significant differences across the scale components. The findings contribute to policies and research targeting the integration of GenAI into educational practices, as well as teacher professional development in higher education.
+
+**DOI:** https://doi.org/10.1007/s40692-025-00373-y
 
 ## Summary
 

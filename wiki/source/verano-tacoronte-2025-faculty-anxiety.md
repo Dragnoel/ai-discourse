@@ -1,5 +1,7 @@
 ---
 title: "Verano-Tacoronte et al. (2025) — Are university teachers ready for generative artificial intelligence? Unpacking faculty anxiety in the ChatGPT era"
+aliases:
+  - "Verano-Tacoronte et al. (2025)"
 type: source
 themes:
   - edtech
@@ -17,6 +19,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Education and Information Technologies* (Springer, 2025). Domingo Verano-Tacoronte, Alicia Bolívar-Cruz, and Silvia Sosa-Cabrera (Spanish public universities) report a PLS-SEM structural equation modelling study of N=249 faculty members examining how three distinct types of technology-related anxiety shape behavioral intention to adopt ChatGPT, mediated by effort expectancy and performance expectancy from the UTAUT framework.
+
+## Abstract
+
+> This study investigates the role of technology-related anxiety in shaping university teachers' behavioral intention to adopt ChatGPT. Three distinct types of anxiety are examined: (a) anxiety about the future of the academic profession, (b) anxiety regarding the personal misuse of ChatGPT, and (c) anxiety concerning negative impacts on student learning. A structured questionnaire was administered to 249 faculty members from Spanish public universities. Data were analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM) to assess both the direct effects of each type of anxiety on behavioral intention and the mediating roles of effort expectancy (EE) and performance expectancy (PE). Results indicate that anxiety about student learning exhibits a significant negative direct effect on behavioral intention and an indirect effect through performance expectancy. Similarly, anxiety related to the misuse of ChatGPT is negatively associated with behavioral intention, with significant mediation through both EE and PE. In contrast, anxiety concerning the future of the academic profession does not show a statistically significant relationship with behavioral intention. The findings underscore the importance of addressing specific psychological barriers—particularly those linked to concerns over student learning and technology misuse—to facilitate ChatGPT integration in higher education. The study suggests that effective implementation strategies should combine technical training with targeted interventions aimed at managing technology-related anxiety, enhancing ethical practices, and improving perceptions of the tool's utility and ease of use.
+
+**DOI:** https://doi.org/10.1007/s10639-025-13585-7
 
 ## Summary
 

@@ -1,5 +1,7 @@
 ---
 title: "Shekhar and Saurombe (2026) — Algorithmic anxiety: AI, work, and the evolving psychological contract in digital discourse"
+aliases:
+  - "Shekhar and Saurombe (2026)"
 type: source
 themes:
   - labour
@@ -17,6 +19,18 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Frontiers in Psychology* (February 2026). Anurag Shekhar and Musawenkosi Saurombe at the University of Johannesburg analyse N=1,454 Reddit narratives about AI-driven job displacement through a mixed-methods design combining VADER and BERT sentiment analysis with qualitative thematic analysis. The study introduces and operationalises "algorithmic anxiety" as a syndrome distinct from general technostress, framing it as a violation of the psychological contract between workers and employers.
+
+## Abstract
+
+> **Introduction:** The study used a mixed-methods approach, utilising 1,454 Reddit narratives about AI-driven job displacement, to examine how AI is transforming the workplace psychological contract.
+>
+> **Methods:** This study used both quantitative and qualitative methods of analysis. It analysed sentiment patterns, emotional responses, and thematic content from digital discourse.
+>
+> **Results:** While our results show a surface level of optimism regarding the use of AI (52% of all sentiment was positive according to VADER), our results also showed a significant amount of negative sentiment (51% of all sentiment was negative according to BERT) that indicates a deeper concern of people in terms of their feelings of "algorithmic anxiety" related to job loss. Network analysis showed three interconnected discourse groups centered on employment disruption, ethical concerns, and technical systems (modularity Q = 0.42). Furthermore, seven themes emerged from the data analysis: shattered trust and corporate betrayal, eroded identities, technostress, devalued expertise, anxiety about the future, cynicism about adapting, and affirming human values, which illustrate how the use of AI has disrupted the psychological contract between employees and employers.
+>
+> **Discussion:** This study adds to psychological contract theory by illustrating ways that technology can breach an individual's psychological contract at work. In addition, this study extends existing technostress literature by identifying specific sources of stress associated with AI use in the workplace. Finally, it applies self-determination theory to work settings where algorithms are shaping the work environment. Practically speaking, the findings suggest that employers who wish to address the growing problem of "algorithmic anxiety" should engage in transparent communication, involve employees in decision-making, and design their technological systems to preserve employee dignity in increasingly automated workplaces.
+
+**DOI:** https://doi.org/10.3389/fpsyg.2026.1745164
 
 ## Summary
 

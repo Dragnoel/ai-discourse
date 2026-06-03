@@ -1,5 +1,7 @@
 ---
 title: "Jin et al. (2025) — High heels, compass, spider-man, or drug? Metaphor analysis of generative artificial intelligence in academic writing"
+aliases:
+  - "Jin et al. (2025)"
 type: source
 themes:
   - edtech
@@ -19,6 +21,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Computers & Education* (Elsevier, 2025). Fangzhou Jin and colleagues at the University of Hong Kong report a metaphor analysis study of N=277 international postgraduate students from 14 countries studying at 18 UK universities. The study identifies 53 unique metaphors for GenAI in academic writing and organises them into a four-category taxonomy called the 4T Pyramid Model.
+
+## Abstract
+
+> This research employed metaphor analysis to explore 277 postgraduate students' perceptions of the role of generative artificial intelligence (GenAI) in academic writing. All participants were international students, from a total of 14 countries and regions, studying in the United Kingdom. Data collection was carried out in two phases. The first was a survey comprising demographic and metaphor-related questions, and the second involved metaphor checking, in which participants provided screenshots of their interactions with GenAI. The data, which were analyzed both qualitatively and quantitatively, yielded 53 unique metaphors for the concept of GenAI in academic writing. We divided these into four conceptual categories in what we term the 4T Pyramid Model: Technical Support (representative metaphor: high-heeled shoes), Text Development (compass), Transformative Potential (Spider-Man), and Threat (drug). The respondents' academic disciplines influenced their perceptions of GenAI, but overall, the results suggest that most viewed it as transformative, i.e., more than just a writing tool. This study's innovative methodology integrating metaphor analysis with real user interactions offers a framework, aligned with Bloom's Taxonomy, that reveals the multi-level benefits and potential risks of GenAI. It also provides actionable insights for AI literacy education, including strategies for effective prompt design.
+
+**DOI:** https://doi.org/10.1016/j.compedu.2025.105248
 
 ## Summary
 
@@ -42,4 +50,4 @@ Most students, across disciplines, conceptualised GenAI as primarily Transformat
 
 ## Citation
 
-Jin, F., Sun, L., Pan, Y., & Lin, C.-H. (2025). High heels, compass, spider-man, or drug? Metaphor analysis of generative artificial intelligence in academic writing. *Computers & Education*, *227*. {{doi unverified}}
+Jin, F., Sun, L., Pan, Y., & Lin, C.-H. (2025). High heels, compass, spider-man, or drug? Metaphor analysis of generative artificial intelligence in academic writing. *Computers & Education*, *228*, 105248. https://doi.org/10.1016/j.compedu.2025.105248

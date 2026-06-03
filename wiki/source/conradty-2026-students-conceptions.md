@@ -1,5 +1,7 @@
 ---
 title: "Conradty et al. (2026) — Students' conceptions about AI in science classrooms"
+aliases:
+  - "Conradty et al. (2026)"
 type: source
 themes:
   - edtech
@@ -18,6 +20,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Frontiers in Education* (May 2026). Cathérine Conradty and colleagues at the University of Bayreuth and the DISCOVERY SPACE Erasmus+ project report a mixed-methods study of N=841 open-ended responses from students across multiple European countries about how they conceptualise AI's role in school learning. The study identifies three recurrent role repertoires and argues that AI's educational value depends on how its affordances are pedagogically framed relative to learner agency.
+
+## Abstract
+
+> As Artificial Intelligence (AI) becomes increasingly integrated into school contexts, debates often focus on efficiency, trustworthiness, automation, and concerns about students' growing reliance on such systems. However, less is known about how students themselves conceptualise "an AI for school" and which pedagogical roles they attribute to it. This study investigates students' expectation profiles regarding educational AI, the pedagogical meanings they attach to AI functions, and how they articulate the balance between AI support and cognitive independence. Drawing on 841 open-ended responses from students across multiple European countries and languages, the study employed an exploratory mixed-methods design using a dual coding framework. Functional expectations (System A) were analytically differentiated from pedagogical meanings and values (System B), followed by quantitative co-occurrence analysis and residual mapping. The findings reveal systematic associations between expected AI functions and pedagogical meanings, resulting in three recurrent role repertoires: Tutor-oriented expectations emphasising explanation and understanding; Coach-oriented expectations focusing on personalisation, organisation, and self-regulation; and Companion-oriented expectations foregrounding relational, emotional, and ethical dimensions. Across all profiles, students articulated a clear normative boundary between supportive guidance and inappropriate delegation, favouring AI that scaffolds thinking during problem-solving rather than replacing cognitive effort. These findings contribute to digital education research by demonstrating that the educational relevance of AI depends less on technical functionality alone than on how AI affordances are pedagogically framed and aligned with learner agency, cognitive autonomy, and responsible classroom integration.
+
+**DOI:** https://doi.org/10.3389/feduc.2026.1810140
 
 ## Summary
 
@@ -42,4 +50,4 @@ Across all three profiles, students articulated a normative boundary between AI 
 
 ## Citation
 
-Conradty, C., Sotiriou, S., Koulentianos, D., & Bogner, F. X. (2026). Students' conceptions about AI in science classrooms. *Frontiers in Education*, *11*. {{doi unverified}}
+Conradty, C., Sotiriou, S., Koulentianos, D., & Bogner, F. X. (2026). Students' conceptions about AI in science classrooms. *Frontiers in Education*, *11*, 1810140. https://doi.org/10.3389/feduc.2026.1810140

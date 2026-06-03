@@ -1,5 +1,7 @@
 ---
 title: "Himmelstein and Budescu (2023) — Preference for human or algorithmic forecasting advice does not predict if and how it is used"
+aliases:
+  - "Himmelstein and Budescu (2023)"
 type: source
 themes:
   - sociocultural
@@ -16,6 +18,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in the *Journal of Behavioral Decision Making* (Wiley, 2023). Mark Himmelstein and David Budescu at Fordham University report two studies on forecasting advice-taking in geopolitical and economic contexts, funded by the Intelligence Advanced Research Projects Activity. The central finding — that stated preferences for human versus algorithmic advice do not predict actual advice use — challenges a foundational assumption in algorithm aversion research.
+
+## Abstract
+
+> Past research has found that people treat advice differently depending on its source. In many cases, people seem to prefer human advice to algorithms, but in others, there is a reversal, and people seem to prefer algorithmic advice. Across two studies, we examine the persuasiveness of, and judges' preferences for, advice from different sources when forecasting geopolitical events. We find that judges report domain-specific preferences, preferring human advice in the domain of politics and algorithmic advice in the domain of economics. In Study 2, participants report a preference for hybrid advice, that combines human and algorithmic sources, to either one on it's own regardless of domain. More importantly, we find that these preferences did not affect persuasiveness of advice from these different sources, regardless of domain. Judges were primarily sensitive to quantitative features pertaining to the similarity between their initial beliefs and the advice they were offered, such as the distance between them and the relative advisor confidence, when deciding whether to revise their initial beliefs in light of advice, rather than the source that generated the advice.
+
+**DOI:** https://doi.org/10.1002/bdm.2285
 
 ## Summary
 
@@ -39,4 +47,4 @@ These results introduce a critical constraint on the algorithm aversion/apprecia
 
 ## Citation
 
-Himmelstein, M., & Budescu, D. V. (2023). Preference for human or algorithmic forecasting advice does not predict if and how it is used. *Journal of Behavioral Decision Making*, *36*(3), e2316. {{doi unverified}}
+Himmelstein, M., & Budescu, D. V. (2023). Preference for human or algorithmic forecasting advice does not predict if and how it is used. *Journal of Behavioral Decision Making*, *36*, e2285. https://doi.org/10.1002/bdm.2285

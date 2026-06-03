@@ -1,5 +1,7 @@
 ---
 title: "Eynon and Young (2021) — Methodology, Legend, and Rhetoric: The Constructions of AI by Academia, Industry, and Policy Groups for Lifelong Learning"
+aliases:
+  - "Eynon and Young (2021)"
 type: source
 themes:
   - edtech
@@ -17,6 +19,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Science, Technology, & Human Values* (SAGE, 2021). Rebecca Eynon and Erin Young at the University of Oxford report a SCOT-informed analysis of 34 in-depth interviews with stakeholders from academia, commerce, and policy engaged with AI for lifelong learning. The study identifies three distinct technological frames for AI and argues that the commercial sector's frame wields the most influence on AI design, crowding out educational concerns.
+
+## Abstract
+
+> Artificial intelligence (AI) is again attracting significant attention across all areas of social life. One important sphere of focus is education; many policy makers across the globe view lifelong learning as an essential means to prepare society for an "AI future" and look to AI as a way to "deliver" learning opportunities to meet these needs. AI is a complex social, cultural, and material artifact that is understood and constructed by different stakeholders in varied ways, and these differences have significant social and educational implications that need to be explored. Through analysis of thirty-four in-depth interviews with stakeholders from academia, commerce, and policy, alongside document analysis, we draw on the social construction of technology (SCOT) to illuminate the diverse understandings, perceptions of, and practices around AI. We find three different technological frames emerging from the three social groups and argue that commercial sector practices wield most power. We propose that greater awareness of the differing technical frames, more interactions among a wider set of relevant social groups, and a stronger focus on the kinds of educational outcomes society seeks are needed in order to design AI for learning in ways that facilitate a democratic education for all.
+
+**DOI:** https://doi.org/10.1177/0162243920906475
 
 ## Summary
 

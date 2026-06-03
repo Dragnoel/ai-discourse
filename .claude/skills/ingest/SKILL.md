@@ -20,6 +20,16 @@ unless explicitly asked to re-process.
 
 **Create a source/ page** at wiki/source/<filename-without-ext>.md:
 - Lead paragraph (≤ 80 words): document type, author(s), date, main topic
+  - `## Abstract`: if the document contains an abstract, copy it **verbatim** as a
+    blockquote immediately after the lead paragraph. Do not paraphrase or summarise.
+    For documents without a standard abstract, use an equivalent heading and note
+    the difference inline:
+    - Opinion/commentary pieces → `## Author summary`
+    - Edited volumes → `## Publisher description`
+    - Documents with no abstract → omit the section; note the absence in the lead paragraph
+    Follow the blockquote immediately with `**DOI:** <url>`, or if no DOI is assigned
+    (e.g. dissertations), note that explicitly. The abstract and DOI must appear
+    before `## Summary`.
 - `## Summary` (2–4 paragraphs): key claims, actors mentioned, evidence offered
 - `## Entities extracted`: bullet list of claims, actors, incidents, constructs identified
 - `## Cross-source links`: other wiki pages this source connects to, and why

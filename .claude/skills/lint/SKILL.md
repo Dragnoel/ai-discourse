@@ -27,6 +27,9 @@ wiki/_lint-report.md with: the file, the rule violated, and the proposed fix.
 8. Frontmatter missing required fields (title, type, draft, created)
 9. Wikilinks pointing to pages that do not exist (broken links)
 10. references.bib keys cited in wiki/ pages but absent from references.bib
+11. source/ pages missing `## Abstract` (or `## Author summary` /
+      `## Publisher description` for opinion pieces and edited volumes)
+12. source/ pages missing `**DOI:**` line after the abstract block
 
 ## Output format
 Write full report to wiki/_lint-report.md:

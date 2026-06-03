@@ -1,5 +1,7 @@
 ---
 title: "Lan (2024) — Through tensions to identity-based motivations: Exploring teacher professional identity in Artificial Intelligence-enhanced teacher training"
+aliases:
+  - "Lan (2024)"
 type: source
 themes:
   - edtech
@@ -15,6 +17,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Teaching and Teacher Education* (Elsevier, 2024). Yanzhen Lan, affiliated with Qingdao University of Science and Technology (China) and the University of Cambridge (UK), reports a mixed-methods case study of N=216 survey participants and 15 in-depth qualitative interviews from a Chinese university-level AI-enhanced teacher training programme. The study uses the IBM-SDT framework (Identity-Based Motivation combined with Self-Determination Theory) to examine how teacher professional identity (TPI) tensions shape motivations to integrate AI.
+
+## Abstract
+
+> This mixed-methods case study explores teacher professional identity (TPI) tensions and motivations for Artificial Intelligence (AI) integration in teaching within a Chinese university-level AI-enhanced teacher training programme. Surveys were completed by 216 attendees, followed by in-depth qualitative analysis of 15 selected teachers. The study reveals TPI groupness-individuality, humanity-technology, and continuity-openness tensions. Three conceptual models are introduced: Human Intelligence and AI as Navigator, Collaborator, and Inventor. It underscores the critical role of tailored AI-enhanced teacher training in harmonising educators' diverse identities and motivations with technological advancements, signalling a strategic approach for effective AI integration in global teacher education.
+
+**DOI:** https://doi.org/10.1016/j.tate.2024.104736
 
 ## Summary
 

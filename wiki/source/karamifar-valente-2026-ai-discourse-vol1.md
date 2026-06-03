@@ -1,5 +1,7 @@
 ---
 title: "Karamifar and Valente (2026) — Artificial Intelligence and Discourse, Volume 1: Cross Cultural Perspectives of AI Technology Across Media Narratives"
+aliases:
+  - "Karamifar and Valente (2026)"
 type: source
 themes:
   - sociocultural
@@ -16,6 +18,14 @@ sources:
 ---
 
 Edited academic volume published by Palgrave Macmillan (2026) in the *Postdisciplinary Studies in Discourse* series (series editor: Johannes Angermuller, Open University). Banafsheh Karamifar (Laurentian University, Canada) and Andrea Valente (York University, Canada) edited this first volume in a series examining AI through the lens of discourse theory, cultural analysis, and cross-cultural media perspectives. The volume brings together contributions addressing how AI technologies are represented, narrated, and contested across different cultural and media contexts.
+
+## Publisher description
+
+*Edited volume; no single abstract. From the series and preface:*
+
+> Postdisciplinary Studies in Discourse engages in the exchange between discourse theory and analysis while putting emphasis on the intellectual challenges in discourse research. Moving beyond disciplinary divisions in today's social sciences, the contributions deal with critical issues at the intersections between language and society. This volume collects cross-cultural discourse analyses of AI technology across media narratives, examining how AI technologies are represented, narrated, and contested across different cultural contexts.
+
+**DOI:** https://doi.org/10.1007/978-3-032-06408-0
 
 ## Summary
 

@@ -1,5 +1,7 @@
 ---
 title: "Nikolic et al. (2024) — A systematic literature review of attitudes, intentions and behaviours of teaching academics pertaining to AI and generative AI (GenAI) in higher education"
+aliases:
+  - "Nikolic et al. (2024)"
 type: source
 themes:
   - edtech
@@ -22,6 +24,12 @@ sources:
 ---
 
 Systematic literature review published in the *Australasian Journal of Educational Technology* (ASCILITE, 2024). Sasha Nikolic and colleagues from the University of Wollongong and partner institutions conducted a review of teaching academics' attitudes, intentions, and behaviors toward AI and GenAI in higher education, using the Unified Theory of Acceptance and Use of Technology (UTAUT) as the organising framework.
+
+## Abstract
+
+> The rapid advancement of artificial intelligence (AI) has outpaced existing research and regulatory frameworks in higher education, leading to varied institutional responses. Although some educators and institutions have embraced AI and generative AI (GenAI), other individuals remain cautious. This systematic literature review explored teaching academics' attitudes, perceptions and intentions towards AI and GenAI, identifying perceived benefits and obstacles. Utilising the unified theory of acceptance and use of technology framework, this study reveals positive attitudes towards AI's efficiency and teaching enhancement, but also significant concerns about academic integrity, accuracy, reliability, skill development and the need for comprehensive training and policies. These findings underscore the necessity for institutional support to navigate the integration of AI and GenAI in tertiary education.
+
+**DOI:** {{doi unverified — AJET 2024, 40(6); DOI not visible in source PDF}}
 
 ## Summary
 

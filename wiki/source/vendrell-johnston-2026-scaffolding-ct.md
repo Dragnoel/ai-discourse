@@ -1,5 +1,7 @@
 ---
 title: "Vendrell and Johnston (2026) — Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education"
+aliases:
+  - "Vendrell and Johnston (2026)"
 type: source
 themes:
   - edtech
@@ -16,6 +18,12 @@ sources:
 ---
 
 Peer-reviewed conceptual and normative article in *Computers and Education: Artificial Intelligence* (Elsevier, 2026). Mireia Vendrell (IIIA-CSIC, Spanish National Research Council, Barcelona) and Samantha-Kaye Johnston (Assessment and Evaluation Research Centre, University of Melbourne) synthesise research from cognitive psychology, educational theory, and AI ethics to develop a design-oriented pedagogical framework for integrating LLMs in higher education in ways that preserve and extend critical thinking.
+
+## Abstract
+
+> The rapid adoption of Large Language Models (LLMs) such as GPT-4 and DeepSeek R1 is transforming learning in higher education, yet unstructured use can weaken critical thinking by encouraging cognitive offloading, metacognitive disengagement, and reduced epistemic agency. This paper presents a conceptual and normative analysis that synthesises research from cognitive psychology, educational theory, and AI ethics to develop a design-oriented pedagogical framework for integrating LLMs in ways that strengthen, rather than displace, higher-order thinking. Grounded in design-based research principles, the framework identifies six essential processes that underpin critical engagement: conceptual interpretation, inferential reasoning, evaluative judgement, metacognitive regulation, intellectual curiosity, and epistemic integrity. These processes are translated into eight actionable design principles, including preserving cognitive friction, positioning LLMs as provisional thinking partners, embedding evaluation throughout learning, and sequencing AI-mediated with AI-free phases. Two illustrative classroom scenarios showcase practical application. The framework offers educators a theoretically grounded and practically applicable model for cultivating critical thinking and epistemic responsibility in AI-rich learning environments, contributing to emerging new systems of learning in higher education.
+
+**DOI:** https://doi.org/10.1016/j.caeai.2026.100572
 
 ## Summary
 

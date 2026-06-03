@@ -1,5 +1,7 @@
 ---
 title: "Huang et al. (2025) — Academic cheating with generative AI: Exploring a moral extension of the theory of planned behavior"
+aliases:
+  - "Huang et al. (2025)"
 type: source
 themes:
   - edtech
@@ -18,6 +20,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Computers and Education: Artificial Intelligence* (Elsevier, 2025). Dongpeng Huang and colleagues at Boston University (and Central Michigan University) report a mixed-methods study with N=25 undergraduate students enrolled in a GenAI-integrated course, examining academic cheating behavior through a modified Theory of Planned Behavior (TPB) extended with moral obligation.
+
+## Abstract
+
+> As generative artificial intelligence (GenAI) tools become increasingly integrated into educational environments, concerns have emerged about their potential to facilitate academic dishonesty. Drawing on the modified theory of planned behavior, this study aimed to understand undergraduate students' academic cheating behaviors using GenAI. The study conducted a mixed-method approach, utilizing focus groups and polls to gather insights from 25 undergraduate students enrolled in a course that incorporated GenAI into its pedagogical design in the United States. The results revealed that the integration of GenAI into higher education is perceived as inevitable. While students clearly recognized overt cheating, opinions varied regarding subtle forms of dishonesty and the effectiveness of formal deterrents. Peer influence and personal ethics were found to strongly shape cheating behaviors, with class policies enforced by instructors exerting a greater influence on student cheating behavior with GenAI than broader institutional policies. These insights can assist educators and policymakers in managing the challenges and opportunities presented by the integration of GenAI technologies into education.
+
+**DOI:** https://doi.org/10.1016/j.caeai.2025.100424
 
 ## Summary
 
@@ -41,4 +49,4 @@ The study finds that GenAI integration into education is perceived by students a
 
 ## Citation
 
-Huang, D., Hash, N., Cummings, J., & Prena, K. (2025). Academic cheating with generative AI: Exploring a moral extension of the theory of planned behavior. *Computers and Education: Artificial Intelligence*, *7*. {{doi unverified}}
+Huang, D., Hash, N., Cummings, J., & Prena, K. (2025). Academic cheating with generative AI: Exploring a moral extension of the theory of planned behavior. *Computers and Education: Artificial Intelligence*, *8*, 100424. https://doi.org/10.1016/j.caeai.2025.100424

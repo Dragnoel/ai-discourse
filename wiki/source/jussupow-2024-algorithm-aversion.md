@@ -1,5 +1,7 @@
 ---
 title: "Jussupow et al. (2024) — An Integrative Perspective on Algorithm Aversion and Appreciation in Decision-Making"
+aliases:
+  - "Jussupow et al. (2024)"
 type: source
 themes:
   - sociocultural
@@ -17,6 +19,12 @@ sources:
 ---
 
 Research note in *MIS Quarterly* (December 2024). Ekaterina Jussupow (TU Darmstadt), Izak Benbasat (University of British Columbia), and Armin Heinzl (University of Mannheim) provide an integrative conceptual analysis of algorithm aversion and appreciation in decision-making. The paper argues that the empirical literature on these constructs is fragmented due to inconsistent definitions and incompatible measurement approaches, and proposes a classification scheme to guide future research.
+
+## Abstract
+
+> People have conflicting responses for support from algorithms or humans in decision-making. On the one hand, they fail to benefit from algorithms due to algorithm aversion, as they reject decisions provided by algorithms more frequently than those made by humans. On the other hand, many prefer algorithmic over human advice, an effect of algorithm appreciation. However, currently, we lack a shared understanding of these constructs' meaning and measurements, resulting in a lack of theoretical integration of empirical findings. Thus, in this research note, we conceptualize algorithm aversion as the preference for humans over algorithms in decision-making and analyze approaches in current research to measure this preference. First, we outline the implications of focusing on a specific understanding of algorithms as computational procedures or as embedded in material or nonmaterial objects. Then, we classify four decision configurations that distinguish individuals' evaluations of algorithms, human advisors, their own judgments, or combinations of these. Consequently, we develop a classification scheme that provides guidance for future research to develop more specific hypotheses on the direction of preferences (aversion vs. appreciation) and the effect of moderators.
+
+**DOI:** https://doi.org/10.25300/MISQ/2024/18512
 
 ## Summary
 
@@ -40,4 +48,4 @@ The authors identify the inaugural use of "algorithm aversion" as Dietvorst et a
 
 ## Citation
 
-Jussupow, E., Benbasat, I., & Heinzl, A. (2024). An integrative perspective on algorithm aversion and appreciation in decision-making. *MIS Quarterly*, *48*(4), 1543–1564. {{doi unverified}}
+Jussupow, E., Benbasat, I., & Heinzl, A. (2024). An integrative perspective on algorithm aversion and appreciation in decision-making. *MIS Quarterly*, *48*(4), 1575–1590. https://doi.org/10.25300/MISQ/2024/18512

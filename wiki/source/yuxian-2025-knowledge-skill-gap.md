@@ -1,5 +1,7 @@
 ---
 title: "Yuxian (2025) — Bridging the knowledge-skill gap: The role of large language model and critical thinking in education"
+aliases:
+  - "Yuxian (2025)"
 type: source
 themes:
   - edtech
@@ -15,6 +17,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Computers & Education* (Elsevier, 2025). Jin Yuxian at Sungkyunkwan University, Seoul, reports a 2×2 within-subjects experiment (N=80 undergraduate students) examining the combined effects of LLM chatbot access and critical thinking guidance on declarative and procedural knowledge acquisition across four learning tasks in domains outside participants' major.
+
+## Abstract
+
+> In the dynamic field of education, addressing the knowledge-skill gap remains a significant challenge, as students often excel in theoretical understanding but struggle with practical application. This study investigates the combined effects of the large language model (LLM) chatbot and critical thinking guidance on learners' acquisition of declarative knowledge ("know what") and procedural knowledge ("know how"). Findings indicate that while the LLM chatbot enhances declarative knowledge acquisition, it does not significantly impact procedural learning, as learners tend to prioritize lower cognitive load and focus on declarative knowledge. In contrast, critical thinking guidance fosters procedural learning but increases cognitive load, thereby limiting resources available for declarative learning. However, when both interventions are combined, they generate synergistic effects—critical thinking guidance activates procedural learning, while the LLM chatbot mitigates cognitive burden, enabling a more balanced allocation of cognitive resources and improving both declarative and procedural knowledge acquisition. These findings highlight the potential of LLM chatbots as effective educational tools, suggesting that the strategic use of artificial intelligence can promote a more effective approach to knowledge acquisition. This research provides valuable insights into the application of advanced technologies in educational contexts, emphasizing the importance of appropriate instructional strategies to guide the effective use of these technologies.
+
+**DOI:** https://doi.org/10.1016/j.compedu.2025.105357
 
 ## Summary
 

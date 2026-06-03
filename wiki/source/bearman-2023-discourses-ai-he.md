@@ -1,5 +1,7 @@
 ---
 title: "Bearman et al. (2023) — Discourses of artificial intelligence in higher education: a critical literature review"
+aliases:
+  - "Bearman et al. (2023)"
 type: source
 themes:
   - edtech
@@ -18,6 +20,12 @@ sources:
 ---
 
 Peer-reviewed critical literature review in *Higher Education* (Springer, 2023). Margaret Bearman, Juliana Ryan, and Rola Ajjawi conducted a systematic discourse analysis of 29 peer-reviewed articles from the top ten higher education journals that used the term "artificial intelligence." The study identifies two dominant Discourses — in the sense of Gee's discourse theory — through which AI is constructed in this literature, and calls for research that attends to the social and ethical implications of AI-mediated higher education.
+
+## Abstract
+
+> Artificial intelligence (AI) holds significant implications for higher education; however, references to AI in the literature are often vague and open to debate. In order to understand how to progress AI-related research and analysis, this critical review systematically searched top higher education journals for references to the term 'artificial intelligence'. We reviewed definitions and conducted a discourse analysis of included texts. Our findings identify few, confusing definitions and little overt reference to AI as a research object. We delineated two Discourses. The Discourse of imperative change outlines how AI is seen as an inevitable change to which all must respond. Additionally, the Discourse of altering authority describes how texts position AI as decentring the teacher and spreading authority across staff, machines, corporations and students. Our analysis prompts a call for new research foci that attend to the social implications of AI, including tracing accountability in AI-mediated practices and exploring how AI influences learning and teaching relationships.
+
+**DOI:** https://doi.org/10.1007/s10734-022-00937-2
 
 ## Summary
 
@@ -42,4 +50,4 @@ A central finding is that only 3 of 146 papers in Zawacki-Richter et al.'s (2019
 
 ## Citation
 
-Bearman, M., Ryan, J., & Ajjawi, R. (2023). Discourses of artificial intelligence in higher education: A critical literature review. *Higher Education*, *86*(6), 1393–1407. https://doi.org/10.1007/s10734-022-00994-7
+Bearman, M., Ryan, J., & Ajjawi, R. (2023). Discourses of artificial intelligence in higher education: A critical literature review. *Higher Education*, *86*(6), 1393–1407. https://doi.org/10.1007/s10734-022-00937-2

@@ -1,5 +1,7 @@
 ---
 title: "Wang et al. (2026) — A LLM-based pedagogical framework for active, inquiry-based and adaptive learning in L2 writing"
+aliases:
+  - "Wang et al. (2026)"
 type: source
 themes:
   - edtech
@@ -17,6 +19,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Computers and Education: Artificial Intelligence* (Elsevier, 2026). Ruonan Wang, Yan Yin (Hubei University), and Yongbo Cao (Wuhan Huaxia Institute of Technology) propose a LLM-based pedagogical framework integrating active learning, inquiry-based learning (IBL), and adaptive learning principles for L2 writing instruction, and validate it through a quasi-experimental study of N=50 sophomores.
+
+## Abstract
+
+> Traditional L2 writing instruction often struggles to provide personalized, process-oriented feedback and engage student motivation. While generative AI like ChatGPT offers a potential solution, its application lacks a robust pedagogical foundation. This study proposes an innovative framework that integrates ChatGPT into L2 writing through a synthesis of active, inquiry-based, and adaptive learning principles. Within the framework, learners occupy the central position, undergoing the teaching implementation of LLM-based six-step writing instruction process to inquisitively learn, experiencing the teaching assessment of three-dimensional writing evaluation to actively acquire, and benefiting from the teaching reflection of plan for subsequent writing instruction to adaptively improve. Based on a quasi-experimental study involving 50 sophomores, the framework is proved to be effective, enhancing significantly learners' writing outcomes and motivation. These findings add to the limited body of research on the utilization of ChatGPT in education, providing valuable implications for research and pedagogical practices in L2 writing.
+
+**DOI:** https://doi.org/10.1016/j.caeai.2025.100535
 
 ## Summary
 

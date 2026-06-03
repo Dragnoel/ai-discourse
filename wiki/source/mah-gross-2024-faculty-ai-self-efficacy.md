@@ -1,5 +1,7 @@
 ---
 title: "Mah and Groß (2024) — Artificial intelligence in higher education: exploring faculty use, self-efficacy, distinct profiles, and professional development needs"
+aliases:
+  - "Mah and Groß (2024)"
 type: source
 themes:
   - edtech
@@ -16,6 +18,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in the *International Journal of Educational Technology in Higher Education* (Springer, 2024). Dana-Kristin Mah and Nele Groß at Leuphana University of Lüneburg report a quantitative survey study of N=122 faculty members examining AI self-efficacy, perceived benefits and challenges, AI use, and professional development needs. Latent class analysis yields four distinct faculty profiles.
+
+## Abstract
+
+> Faculty perspectives on the use of artificial intelligence (AI) in higher education are crucial for AI's meaningful integration into teaching and learning, yet research is scarce. This paper presents a study designed to gain insight into faculty members' (N=122) AI self-efficacy and distinct latent profiles, perceived benefits, challenges, use, and professional development needs related to AI. The respondents saw greater equity in education as AI's greatest benefit, while students and faculty members' lack of AI literacy was among the greatest challenges, with the majority interested in professional development. Latent class analysis revealed four distinct faculty member profiles: optimistic, critical, critically reflected, and neutral. The optimistic profile moderates the relationship between self-efficacy and usage. The development of adequate support services is suggested for successful and sustainable digital transformation.
+
+**DOI:** https://doi.org/10.1186/s41239-024-00490-1
 
 ## Summary
 
@@ -39,4 +47,4 @@ The key finding is that the relationship between AI self-efficacy and actual usa
 
 ## Citation
 
-Mah, D.-K., & Groß, N. (2024). Artificial intelligence in higher education: Exploring faculty use, self-efficacy, distinct profiles, and professional development needs. *International Journal of Educational Technology in Higher Education*, *21*, 45. https://doi.org/10.1186/s41239-024-00471-4
+Mah, D.-K., & Groß, N. (2024). Artificial intelligence in higher education: Exploring faculty use, self-efficacy, distinct profiles, and professional development needs. *International Journal of Educational Technology in Higher Education*, *21*, 45. https://doi.org/10.1186/s41239-024-00490-1

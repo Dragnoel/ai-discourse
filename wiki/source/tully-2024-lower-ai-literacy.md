@@ -1,5 +1,7 @@
 ---
 title: "Tully et al. (2024) — Lower Artificial Intelligence Literacy Predicts Greater AI Receptivity"
+aliases:
+  - "Tully et al. (2024)"
 type: source
 themes:
   - sociocultural
@@ -18,6 +20,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in the *Journal of Marketing* (SAGE/AMA, 2025 volume, submitted 2024). Stephanie Tully (USC Marshall School), Chiara Longoni (Bocconi University), and Gil Appel (GWU) report ten studies — four surveys, cross-country data, and six additional studies — demonstrating a counter-intuitive negative relationship between objective AI literacy and AI receptivity, mediated by perception of AI as magical.
+
+## Abstract
+
+> As artificial intelligence (AI) transforms society, understanding factors that influence AI receptivity is increasingly important. The current research investigates which types of consumers have greater AI receptivity. Contrary to expectations revealed in four surveys, cross-country data and six additional studies find that people with lower AI literacy are typically more receptive to AI. This lower literacy–greater receptivity link is not explained by differences in perceptions of AI's capability, ethicality, or feared impact on humanity. Instead, this link occurs because people with lower AI literacy are more likely to perceive AI as magical and experience feelings of awe in the face of AI's execution of tasks that seem to require uniquely human attributes. In line with this theorizing, the lower literacy–higher receptivity link is mediated by perceptions of AI as magical and is moderated among tasks not assumed to require distinctly human attributes. These findings suggest that companies may benefit from shifting their marketing efforts and product development toward consumers with lower AI literacy. In addition, efforts to demystify AI may inadvertently reduce its appeal.
+
+**DOI:** https://doi.org/10.1177/00222429251314491
 
 ## Summary
 

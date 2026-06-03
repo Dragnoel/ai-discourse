@@ -1,5 +1,8 @@
 ---
 title: "Logg et al. (2019) — Algorithm appreciation: People prefer algorithmic to human judgment"
+aliases:
+  - "Logg (2019)"
+  - "Logg et al. (2019)"
 type: source
 themes:
   - sociocultural
@@ -17,6 +20,12 @@ sources:
 ---
 
 Peer-reviewed empirical article in *Organizational Behavior and Human Decision Processes* (Elsevier, 2019). Jennifer Logg (Harvard Kennedy School), Julia Minson, and Don Moore (Haas School of Business, UC Berkeley) report six experiments demonstrating that lay people assign greater weight to advice when it is labeled as algorithmic rather than human — a phenomenon they term "algorithm appreciation." The finding runs counter to the received wisdom of algorithm aversion.
+
+## Abstract
+
+> Even though computational algorithms often outperform human judgment, received wisdom suggests that people may be skeptical of relying on them (Dawes, 1979). Counter to this notion, results from six experiments show that lay people adhere *more* to advice when they think it comes from an algorithm than from a person. People showed this effect, what we call *algorithm appreciation*, when making numeric estimates about a visual stimulus (Experiment 1A) and forecasts about the popularity of songs and romantic attraction (Experiments 1B and 1C). Yet, researchers predicted the opposite result (Experiment 1D). Algorithm appreciation persisted when advice appeared jointly or separately (Experiment 2). However, algorithm appreciation waned when: people chose between an algorithm's estimate and their own (versus an external advisor's; Experiment 3) and they had expertise in forecasting (Experiment 4). Paradoxically, experienced professionals, who make forecasts on a regular basis, relied less on algorithmic advice than lay people, which hurt their accuracy. These results shed light on the important question of when people rely on algorithmic advice over advice from people and have implications for the use of "big data" and algorithmic advice it generates.
+
+**DOI:** https://doi.org/10.1016/j.obhdp.2018.12.005
 
 ## Summary
 
